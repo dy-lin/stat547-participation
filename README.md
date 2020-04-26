@@ -1,6 +1,8 @@
 # STAT 547: Particpation Repository
 **Author:** Diana Lin
 
+This repository is a clone of the _private_ [repository](https://github.com/STAT547-UBC-2019-20/participation-dy-lin) under the STAT547 organization.
+
 **QUICK LINKS:** [Course Website](https://stat545.stat.ubc.ca) | [Lecture Guidebook](https://stat545guidebook.netlify.com/review-of-stat-545.html) | [Participation Worksheets](https://github.com/STAT547-UBC-2019-20/Discussions/tree/master/participation)
 
 This repository holds all the partcipation worksheets for STAT547. Each class meeting has a knit `HTML` file of the participation worksheet, and some class meetings have attached, external files and links that are part of the submission. All important files for completion of the participatory activities can be found in the table below:
